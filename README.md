@@ -26,7 +26,8 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo?[![](https://github.com/FranciscoMarin29/Francisco/blob/main/LINDKELIN.png)](https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
+* :mailbox: ¿Quieres contactar conmigo?[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
+* 
 * ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
