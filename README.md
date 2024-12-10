@@ -20,14 +20,14 @@
 
 ### :man_technologist: Sobre mí :
 
-Apasionado de la tecnología y disfrutando de una transición laboral al Data Scienties <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de fallas en operación de linea en una empresa de transporte   pero necesito nuevos retos :muscle:
+Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Data Scientist <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: Actualmente, trabajo en el departamento de Análisis de Datos, enfocado en la gestión de averías de operación de línea en el Sistema de Transporte Colectivo Metro. Sin embargo, estoy en busca de nuevos retos que me permitan seguir creciendo profesionalmente. Me encuentro en la etapa final de mi curso de Data Scientist en el BootCamp TripleTen, y estoy entusiasmado por aplicar los conocimientos adquiridos, los cuales complementan perfectamente mi título de Científico de Datos. :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje MATLAB, SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta el desafío de descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación. Disfruto especialmente al aplicar estas habilidades para tomar decisiones más informadas y crear visualizaciones que faciliten la comprensión de datos complejos. La capacidad de optimizar procesos mediante la automatización y la visualización me permite mejorar continuamente mi enfoque y hacer que las decisiones sean más claras y eficaces. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo?[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjms/)
 * 
 * ---
 
