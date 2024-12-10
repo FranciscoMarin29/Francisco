@@ -1,14 +1,13 @@
-# Francisco
-GitHub Profile
 <div id="header" align="center">
-  <img decoding="async" 
-    src="https://github.com/FranciscoMarin29/Francisco/blob/main/Profile.png" width="800"/>
-</div>
+  <img decoding="async" src="https://github.com/FranciscoMarin29/Francisco/blob/main/Profile.png" width="800"/>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
+![](https://komarev.com/ghpvc/?username=FranciscoMarin29&color=blueviolet&style=flat-square)
+</div>
 
-
-<div id="badges" align="center">
+---
+ <div id="header" align="left">
+   
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FranciscoMarin29.Francisco&color=00cf00" alt=""/>
 <h1>
   Hola soy Francisco. ¡Encantado de conocerte!
