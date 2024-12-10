@@ -27,26 +27,28 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Da
 
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación. Disfruto especialmente al aplicar estas habilidades para tomar decisiones más informadas y crear visualizaciones que faciliten la comprensión de datos complejos. La capacidad de optimizar procesos mediante la automatización y la visualización me permite mejorar continuamente mi enfoque y hacer que las decisiones sean más claras y eficaces. :detective:
 
+
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjms/)
-* 
-* ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
+* :e-mail: francisco.marins@gmail.com
 
-</div>
+* :iphone: +52 55 7923 8424 
+
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,github,html,azure,sklearn,sql)](https://skillicons.dev)
+
+</div>
+
+---
+
+
+
+### :fire: Mis estadísticas:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FranciscoMarin29&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoMarin29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
