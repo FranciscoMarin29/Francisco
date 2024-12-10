@@ -28,7 +28,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Da
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación. Disfruto especialmente al aplicar estas habilidades para tomar decisiones más informadas y crear visualizaciones que faciliten la comprensión de datos complejos. La capacidad de optimizar procesos mediante la automatización y la visualización me permite mejorar continuamente mi enfoque y hacer que las decisiones sean más claras y eficaces. :detective:
 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mar%C3%ADn-salgado/)
 
 * :e-mail: francisco.marins@gmail.com
 
