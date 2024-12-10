@@ -39,7 +39,7 @@ Amante de la tecnología y entusiasta de comenzar mi carrera profesional como Da
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,github,html,azure,sklearn,sql)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,github,html,azure,sklearn)](https://skillicons.dev)
 
 </div>
 
